@@ -68,23 +68,23 @@ punkty za częste wypożyczenia i od tego czy film jest nowy.
 1. Banaszak, Wojciech
 1. Bannach, Krzysztof
 1. Bowżyk, Michał
-1. Czerwiński, Mateusz. [Zadanie 2](https://github.com/mtczerwinski/testing-ruby)
+1. Czerwiński, Mateusz [Zadanie 2](https://github.com/mtczerwinski/testing-ruby)
 1. Człapiński, Bogusław
 1. Grabowski, Marek
 1. Grzesiak, Daniel. [Zadania 1, 2](https://github.com/dgrzesiak/ruby)
 1. Hnatiuk, Ostap
 1. Jadanowski, Łukasz
 1. Jercha, Łukasz
-1. Jóźwiak, Małgorzata [Zadania 1, 2] (https://github.com/mjozwiak/ruby_lab_3)
+1. Jóźwiak, Małgorzata
 1. Kiełb, Michał
 1. Kisły, Zbigniew
 1. Kliczkowski, Łukasz
-1. Krzyżanowski, Piotr. [Zadania 1, 2](https://github.com/pietter/Ruby)
+1. Krzyżanowski, Piotr [Zadania 1, 2](https://github.com/pietter/Ruby)
 1. Mackiewicz, Marcin. [Zadania 1, 2](https://github.com/MaranX/ruby)
 1. Makowski, Łukasz
 1. Matuszewski, Jan
 1. Mielnikowski, Łukasz
-1. Mroczek, Przemysław [Zadania 1, 2](https://github.com/pmroczek/testowanie_repo/tree/master/WyszukiwanieWzorca)
+1. Mroczek, Przemysław
 1. Niemczyk, Radosław
 1. Nowosada, Wojciech
 1. Ochocki, Krzysztof
@@ -92,12 +92,12 @@ punkty za częste wypożyczenia i od tego czy film jest nowy.
 1. Płotka, Magdalena
 1. Rzepniewski, Marcin
 1. Sadowski, Łukasz
-1. Siepetowski, Marcin. [Zadanie 2](https://github.com/siepet/rubyrubyruby/)
+1. Siepetowski, Marcin
 1. Smogór, Tomasz
 1. Socha, Bartłomiej
 1. Student, Dawid
 1. Szalay, Tamás
 1. Tomczyk, Tomasz
 1. Wyszyński, Przemysław
-1. Zieliński, Kamil
+1. Zieliński, Kamil. [Zadanie 1,](https://github.com/laikkk/RubyScripts)[ Zadanie 2](https://github.com/laikkk/RubyInXMinutes)
 1. Zielke, Adam
